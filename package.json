@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^2.1.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +34,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.32.2",
+    "jest": "^27.5.1"
+  },
+  "description": "- [📖 About the Project](#about-project) - [💻 Getting Started](#getting-started) - [Key feature](#Key feature)  -[🚀 Live Demo](#live-demo) - [Setup](#setup) - [Run tests](#run-tests) - [👥 Authors](#authors) - [🔭 Future Features](#future-features) - [🤝 Contributing](#contributing) - [⭐️ Show your support](#support) - [📝 License](#license)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elad237/Math-Magician.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elad237/Math-Magician/issues"
+  },
+  "homepage": "https://github.com/elad237/Math-Magician#readme"
 }
