@@ -8,59 +8,103 @@
   <h1><b>Math Magicians</b></h1>
 
 </div>
-# 📗 Table of Contents
-- [📖 About the Project](#about-project)
-- [💻 Getting Started](#getting-started)
-- [Key feature](#Key feature)
- -[🚀 Live Demo](#live-demo)
-- [Setup](#setup)
-- [Run tests](#run-tests)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [📝 License](#license)
 
-## Math magicians
+# 📗 Table of Contents
+
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 LEADERBOARD ](#-Leaderboard-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Math Magicians<a name="about-project"></a>
+
 Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 -[] Make simple calculations.
 -[] Read a random math-related quote.
 This application help you to learn how to use React.
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
 HTML
 CSS
 JavaScript (ES6)
 Linters
 React
 
-## Key feature
-Here are some key features of the application:
-Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+### Tech Stack <a name="tech-stack"></a>
 
--[] Make simple calculations.
--[] Read a random math-related quote.
+> This project uses the following stack :
 
-## Important Links
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+     <li><a href="https://www.w3schools.com/js/">JavaScript</a></li>
+     <li><a href="hhttps://reactjs.org/">ReactJs</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Here are some key features of the application :
+
+- **Learn how to use proper ES6 syntax.**
+- **Use ES6 modules to write modular JavaScript.**
+- **Follow Gitflow.**
+- **Handle events in a React app.**
+- **Use React life cycle methods.**
+- **Understand the mechanism of lifting state up.**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](Coming soon)
+[Math Magicians](coming soon))
 
+
+<!-- > Here you can visit my live demo : -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting Started
+<!-- GETTING STARTED -->
 
-**This is an example of how you may give instructions on setting up your project locally.**
-To get a local copy up and running follow these simple example steps.
+## 💻 Getting Started <a name="getting-started"></a>
 
-### PrerequisitesTo run this project you need:
+> Clone the repository by clicking on the 'Code' button and copy the link
 
-You should have the node installed on your local machine
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+-visual studio
+-github
 
 ### Setup
+
+Clone this repository to your desired folder:
 
 ```
 git clone https://github.com/elad237/Math-Magician.git
@@ -76,73 +120,106 @@ Run npm install to install all dev dependencies for Linters, Webpack, Jest & Bab
 ```
   
 - Open the index.html file in a browser.
+-
 
-### Usage
+### Install
+
+Install this project with:
+
+```
+  npm install
+```
+### Usage I
+
+Change the main branch to the right one, execute the following command:
+
+```sh
+  git checkout event
+```
+
+### Usage II
 
 To run the project, execute the following command:
 
-Run npm run start in your command terminal.
+```sh
+  npm start
+```
 
 ### Run tests
 
-o run tests, run the following command:
+To run tests, run the following command:
 
 Example command:
-npm install --save-dev jest to install jest
-npm run test to run the test
-npm run start to start your application using webpack
+
 To run the webhint linter
 
+```sh
   npx hint .
+```
+
 To run the stylehint linter
 
+```sh
   npx stylehint "**/*.{css,scss}"
+```
+
 To run the ESLint linter
 
-  npx eslint .
-### Deployment
-You can deploy this project using:
+```sh
+  npx eslint "**/*.{js,jsx}" 
+```
 
-npm start
-    Starts the development server.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-  npm run build
-    Bundles the app into static files for production.
+<!-- AUTHORS -->
 
-  npm test
-    Starts the test runner.
-
-  npm run eject
-    Removes this tool and copies build dependencies, configuration files
-    and scripts into the app directory. If you do this, you can’t go back!
-
-We suggest that you begin by typing:
-
-  cd my-app
-  npm start
-## Author 
+## 👥 Author <a name="author"></a>
 
 👤 **TUMBU BARTHOLOMEW ELAD**
 GitHub: [@githubhandle](https://github.com/elad237)
 - Twitter: [@twitterhandle](https://twitter.com/Elad59380989)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tumbu-elad-896ab2183/)
 
-#future-features
--[] Make simple calculations.
--[] Read a random math-related quote.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **Tests**
+- **Deploy**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/elad237/Math-Magician/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Microverse for proving this platform.
+If you like this project follow me and star it!
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse<br>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [licensed](./MIT.md) .
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
