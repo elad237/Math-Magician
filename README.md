@@ -1,3 +1,13 @@
+<a name="readme-top"></a>
+
+<div align="center">
+
+  <img src="calculator.png" alt="logo" width="300"  height="auto" />
+  <br/>
+
+  <h1><b>Math Magicians</b></h1>
+
+</div>
 # 📗 Table of Contents
 - [📖 About the Project](#about-project)
 - [💻 Getting Started](#getting-started)
@@ -11,8 +21,11 @@
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
 
-# JavaScript-Capstone-Group-Project-TV-API
-The JavaScript capstone project is about building our web application based on an external API. We've selected a TV-based API and then build our web app around it. The web app has 2 user interfaces.
+## Math magicians
+Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+-[] Make simple calculations.
+-[] Read a random math-related quote.
+This application help you to learn how to use React.
 
 ## Built With
 HTML
