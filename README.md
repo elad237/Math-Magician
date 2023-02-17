@@ -1,5 +1,4 @@
 # 📗 Table of Contents
-
 - [📖 About the Project](#about-project)
 - [💻 Getting Started](#getting-started)
 - [Key feature](#Key feature)
