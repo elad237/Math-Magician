@@ -80,9 +80,6 @@ React
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Math Magicians](coming soon))
-
-
 <!-- > Here you can visit my live demo : -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
