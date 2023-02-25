@@ -1,10 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+
+.component-body {
+  background-color: #fff8f0;
+}
+
 .calculator {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
-  align-items: center;
   height: 100vh;
-  border: 1px solid black;
+  column-gap: 100px;
+  margin-top: 100px;
+}
+
+.calculator-title {
+  font-family: 'Roboto', sans-serif;
+  color: #adc6a2;
 }
 
 .wrapper {
@@ -44,4 +55,74 @@
 
 .operator {
   background-color: #f4913e;
+}
+
+.nav-container {
+  padding: 15px 10px;
+  display: grid;
+  grid-template-columns: 5fr 2fr;
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1em;
+  padding-left: 20px;
+  color: gray;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+a {
+  color: #877a72;
+}
+
+a:hover {
+  color: #adc6a2;
+}
+
+.nav-links > li {
+  border-right: 1px solid gray;
+  padding: 10px;
+  color: #877a72;
+}
+
+.nav-links > li:last-child {
+  border: none;
+}
+
+.home-container {
+  height: 100vh;
+}
+
+.home-title {
+  margin: 40px 20px 20px 20px;
+  line-height: 30px;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+  color: #adc6a2;
+}
+
+.home-text {
+  font-family: 'Roboto', sans-serif;
+  margin: 20px;
+}
+
+.quote-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  height: 100vh;
+}
+
+.quote {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  width: 700px;
+  color: #8aa1b1;
 }
