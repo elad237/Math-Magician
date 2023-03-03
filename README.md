@@ -41,6 +41,7 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 This application help you to learn how to use React.
 
 ## 🛠 Built With <a name="built-with"></a>
+
 HTML
 CSS
 JavaScript (ES6)
@@ -112,10 +113,11 @@ npx create-react-app my-app  to install react, react-dom, and react-scripts with
 ### Install
 
 - Install all the dependencies required for the website. By using the command below.
+
 ```
 Run npm install to install all dev dependencies for Linters, Webpack, Jest & Babel.
 ```
-  
+
 - Open the index.html file in a browser.
 -
 
@@ -126,6 +128,7 @@ Install this project with:
 ```
   npm install
 ```
+
 ### Usage I
 
 Change the main branch to the right one, execute the following command:
@@ -163,7 +166,7 @@ To run the stylehint linter
 To run the ESLint linter
 
 ```sh
-  npx eslint "**/*.{js,jsx}" 
+  npx eslint "**/*.{js,jsx}"
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -174,8 +177,15 @@ To run the ESLint linter
 
 👤 **TUMBU BARTHOLOMEW ELAD**
 GitHub: [@githubhandle](https://github.com/elad237)
+
 - Twitter: [@twitterhandle](https://twitter.com/Elad59380989)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tumbu-elad-896ab2183/)
+
+👤 **FRANCIS UCHE**
+GitHub: [@githubhandle](https://github.com/francis3400)
+
+- Twitter: [@twitterhandle](https://twitter.com/francisblinkz)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/francis-uche/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
