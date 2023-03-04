@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 LEADERBOARD ](#-Leaderboard-)
+- [📖 Math-magician ](#-Math-magician-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -81,6 +81,8 @@ React
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 <!-- > Here you can visit my live demo : -->
+## live-demo
+Not available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
