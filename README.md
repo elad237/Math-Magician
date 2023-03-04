@@ -82,7 +82,7 @@ React
 
 <!-- > Here you can visit my live demo : -->
 ## live-demo
-Not available
+https://elad237.github.io/Math-Magician/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
